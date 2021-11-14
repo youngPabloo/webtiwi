@@ -1,0 +1,21 @@
+# Seluruh Ringkasan di Web ini
+
+# Daftar ISI
+    1. Cara menambahkan list
+    
+    >> pake tag (  <li> dan -> penutup</li> )
+        >> <li> ISI TEKS </li>
+
+    2. Pertanyaan yang bakal ditanya oleh Pembimbing/Penguji
+
+    A : Ask
+    J : Jawab
+        a.  A: Kamu buatnya pake apa?
+            j: Pake pure framework Bootstrap
+
+            A: Dimana kamu belajar pake Bootstrap?
+            j: youtube bos
+
+    3. Beberapa syntax udah aku komenin, tinggal dipahami, bahasanya sudah sangat mudah dimengerti untuk manusia lemot, masih bingung? CP : 085161531157! 
+
+    #SalamSalahJurusan
